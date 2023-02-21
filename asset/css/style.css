@@ -1,0 +1,96 @@
+
+@font-face {
+    font-family:"Lato Thin";
+    src: url(../fonts/Lato-Thin.ttf);
+}
+
+@font-face {
+    font-family:"Lato Bold";
+    src: url(../fonts/Lato-Bold.ttf);
+}
+@font-face {
+    font-family:"Lato Regular";
+    src: url(../fonts/Lato-Regular.ttf);
+}
+body{
+    font-family:"Lato Regular";
+}
+
+
+
+
+header{
+    background-color: #112E3E;
+    
+}
+
+footer{
+    background-color: #112E3E;
+    color: white;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family:"Lato Bold";
+}
+
+.vr{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+    font-size: 20px;
+}
+
+.couleur{
+    color:yellow
+}
+
+.carousel-control-prev{
+    margin: 0px 0px 150px 170px;
+    opacity: 5;
+}
+
+.logo1{
+    margin: 10px 0px 0px 0px;
+}
+
+.mx-auto{
+    margin: 50px 0px 0px 0px;
+}
+
+.text1{
+    margin: 50px 0px 70px 0px
+}
+
+.card{
+    border: none;
+}
+
+.card-title{
+    margin: 20px 0px 20px 0px;
+}
+
+.btn{
+    background-color: #2D4755;
+    margin: 20px 0px 50px 0px;
+}
+
+.fs-6{
+    margin: 0px 0px 30px 0px;
+}
+
+
+
+.ligh{
+    border-left: 1px solid white;
+
+    
+}
+
+.parag{
+    margin: 0px 0px 0px 10px
+}
+
+.thin{
+    font-family:"Lato Thin";
+}
